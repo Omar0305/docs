@@ -9,6 +9,7 @@ topics:
   - Mobile
 redirect_from:
   - /get-started/using-github/github-for-mobile
+  - 
   - /github/getting-started-with-github/github-for-mobile
   - /github/getting-started-with-github/using-github/github-for-mobile
 ---
@@ -27,7 +28,8 @@ With {% data variables.product.prodname_mobile %} you can:
 - Receive a push notification when someone mentions your username
 {% ifversion fpt or ghec %}- Secure your GitHub.com account with two-factor authentication{% endif %}
 
-For more information about notifications for {% data variables.product.prodname_mobile %}, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#enabling-push-notifications-with-github-mobile)."
+For more information about notifications for {% data variables.product.prodname_mobile %}, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#enabling-push-notifications-with-github-
+mobile)."
 
 ## Installing {% data variables.product.prodname_mobile %}
 
